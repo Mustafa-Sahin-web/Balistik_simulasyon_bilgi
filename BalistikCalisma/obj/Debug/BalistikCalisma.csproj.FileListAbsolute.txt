@@ -1,0 +1,16 @@
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\bin\Debug\BalistikCalisma.exe.config
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\bin\Debug\BalistikCalisma.exe
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\bin\Debug\BalistikCalisma.pdb
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.csproj.AssemblyReference.cache
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.Form1.resources
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.Properties.Resources.resources
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.csproj.GenerateResource.cache
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.csproj.CoreCompileInputs.cache
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.exe
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.pdb
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.SimulationForm.resources
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\bin\Debug\BalistikCalisma.exe.manifest
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\bin\Debug\BalistikCalisma.application
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.exe.config
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.exe.manifest
+C:\Users\w\source\repos\BalistikCalisma\BalistikCalisma\obj\Debug\BalistikCalisma.application
